@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe2489b9-bdab-49c6-bd09-bd79cbc79de2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1dVxSlMZCf6YLq4j1ZekksGqFyY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/eps/evaluacion2WEB1-1-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\loginPhpMySql\assets" />
+      <recent name="C:\xampp\htdocs\loginPhpMySql\vista" />
+      <recent name="C:\xampp\htdocs\loginPhpMySql\controlador" />
+      <recent name="C:\xampp\htdocs\loginPhpMySql\modelo" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe2489b9-bdab-49c6-bd09-bd79cbc79de2" name="Default Changelist" comment="" />
+      <created>1592524063488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592524063488</updated>
+      <workItem from="1592524064604" duration="1710000" />
+      <workItem from="1592541807713" duration="544000" />
+      <workItem from="1592542359170" duration="4272000" />
+      <workItem from="1592585010125" duration="11147000" />
+      <workItem from="1592664787051" duration="14158000" />
+      <workItem from="1592699195865" duration="19067000" />
+      <workItem from="1592760033168" duration="8959000" />
+      <workItem from="1592782653437" duration="843000" />
+      <workItem from="1592783760327" duration="12000" />
+      <workItem from="1592783778149" duration="4000" />
+      <workItem from="1592851655107" duration="1000" />
+      <workItem from="1592852571500" duration="6872000" />
+      <workItem from="1592871771890" duration="1205000" />
+      <workItem from="1592873022338" duration="43000" />
+      <workItem from="1592929660074" duration="13959000" />
+      <workItem from="1593031390092" duration="34000" />
+      <workItem from="1593031444112" duration="1580000" />
+      <workItem from="1593055102793" duration="11352000" />
+      <workItem from="1593069581479" duration="78000" />
+      <workItem from="1593102928008" duration="63000" />
+      <workItem from="1593121065597" duration="2202000" />
+      <workItem from="1593284597120" duration="942000" />
+      <workItem from="1593303651489" duration="6271000" />
+      <workItem from="1593314839904" duration="438000" />
+      <workItem from="1593368110231" duration="11799000" />
+      <workItem from="1593413144448" duration="6060000" />
+      <workItem from="1593419229359" duration="10361000" />
+      <workItem from="1593429676481" duration="340000" />
+      <workItem from="1593430821740" duration="20736000" />
+      <workItem from="1593452099506" duration="3107000" />
+      <workItem from="1593459663611" duration="1302000" />
+      <workItem from="1593462709681" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="138" y="0" width="1119" height="860" key="#HTML" timestamp="1592719543104">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="138" y="0" width="1119" height="860" key="#HTML/0.0.1600.860@0.0.1600.860" timestamp="1592719543104" />
+    <state x="426" y="108" key="#Inspections" timestamp="1592703748684">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="426" y="108" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1592703748684" />
+    <state x="610" y="150" key="#Menus_and_Toolbars" timestamp="1593419531329">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="610" y="150" key="#Menus_and_Toolbars/0.0.1600.860@0.0.1600.860" timestamp="1593419531329" />
+    <state x="507" y="73" key="#PHP" timestamp="1592541021797">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="73" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1592541021797" />
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592935545082">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1592935545082" />
+    <state x="728" y="191" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1593419451601">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="728" y="191" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1600.860@0.0.1600.860" timestamp="1593419451601" />
+    <state x="605" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1593418220632">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1593418220632" />
+    <state x="158" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593419085698">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="158" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1593419085698" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1593462731501">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1593462731501" />
+    <state x="624" y="153" key="NewPhpClassDialog" timestamp="1592852767779">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="624" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1592852767779" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1593452369238">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1593452369238" />
+    <state x="320" y="106" key="SettingsEditor" timestamp="1593419922871">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="320" y="106" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1593419922871" />
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593459771076">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1593459771076" />
+    <state x="144" y="130" width="585" height="596" key="find.popup" timestamp="1593422550356">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="144" y="130" width="585" height="596" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1593422550356" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1593435519057">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1593435519057" />
+  </component>
+</project>
